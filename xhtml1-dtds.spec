@@ -18,6 +18,7 @@ Patch0:         %{name}-sgml-catalog.patch
 Patch1:         %{name}-sgml-dcl.patch
 BuildArch:      noarch
 BuildRequires:  libxml2 >= 2.4.8
+BuildRequires:  libxml2-utils
 Requires:       libxml2 >= 2.4.8
 Requires:       xml-common
 Requires:       sgml-common
