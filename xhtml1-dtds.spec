@@ -107,3 +107,11 @@ cd - >/dev/null
 %{_sysconfdir}/sgml/%{name}.soc
 %{_sysconfdir}/xml/%{name}*.xml
 %{_datadir}/xml/xhtml/
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-20020801.1
++ Revision: 780182
+- Import (back) fedora xhtml1-dtds package
+- Import (back) fedora xhtml1-dtds package
+
