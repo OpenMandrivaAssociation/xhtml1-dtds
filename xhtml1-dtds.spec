@@ -9,7 +9,7 @@ Group:          Publishing
 # W3C Software License for DTDs etc:
 # http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#DTD
 License:        W3C
-URL:            http://www.w3.org/TR/2002/REC-xhtml1-%{date}/
+URL:            https://www.w3.org/TR/2002/REC-xhtml1-%{date}/
 # Source0 generated with Source99, see comments in the script
 Source0:        %{name}-%{date}.tar.bz2
 Source1:        %{name}.catalog.xml
